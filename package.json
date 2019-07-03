@@ -1,0 +1,29 @@
+{
+  "name": "cypress-ts",
+  "version": "0.0.0",
+  "description": "Quick start for Cypress + TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open",
+    "test": "cypress run",
+    "update": "npm i cypress@latest typescript@latest ts-loader@latest webpack@latest @cypress/webpack-preprocessor@latest -S -E"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basarat/cypress-ts.git"
+  },
+  "keywords": [],
+  "author": "bas@basarat.com",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/basarat/cypress-ts/issues"
+  },
+  "homepage": "https://github.com/basarat/cypress-ts#readme",
+  "dependencies": {
+    "@cypress/webpack-preprocessor": "4.1.0",
+    "cypress": "3.3.2",
+    "ts-loader": "6.0.4",
+    "typescript": "3.5.2",
+    "webpack": "4.35.2"
+  }
+}
