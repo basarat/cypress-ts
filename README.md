@@ -13,8 +13,8 @@ npm i
 * During development `npm start`
 * On build server `npm test`
 
-## Update dependencies 
-`npm run update`
+## Housekeeping
+* Update dependencies to latest : `npm run update`
 
 ## More 
 * [Subscribe to youtube](https://www.youtube.com/basaratali)
