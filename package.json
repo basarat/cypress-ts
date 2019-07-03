@@ -11,9 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/basarat/cypress-ts.git"
   },
-  "keywords": [],
+  "keywords": ["cypress", "typescript"],
   "author": "bas@basarat.com",
-  "private": true,
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/basarat/cypress-ts/issues"
   },
