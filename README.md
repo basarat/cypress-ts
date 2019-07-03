@@ -5,6 +5,7 @@ Get started quickly with Cypress + TypeScript
 
 ```
 git clone https://github.com/basarat/cypress-ts.git
+cd cypress-ts
 npm i
 ```
 
