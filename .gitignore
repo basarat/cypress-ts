@@ -1,5 +1,5 @@
 # test results
-# TODO : video files 
+cypress/videos
 
 # node
 node_modules
