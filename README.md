@@ -20,5 +20,6 @@ npm i
 ## More 
 * [Subscribe to youtube](https://www.youtube.com/basaratali)
 * [Follow me on twitter](https://twitter.com/basarat)
+* [How this template was made](https://basarat.gitbooks.io/typescript/docs/testing/cypress.html)
 
 Enjoy 🌹
