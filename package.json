@@ -23,9 +23,9 @@
   "homepage": "https://github.com/basarat/cypress-ts#readme",
   "dependencies": {
     "@cypress/webpack-preprocessor": "4.1.0",
-    "cypress": "3.3.2",
+    "cypress": "3.4.0",
     "ts-loader": "6.0.4",
-    "typescript": "3.5.2",
-    "webpack": "4.35.2"
+    "typescript": "3.5.3",
+    "webpack": "4.35.3"
   }
 }
